@@ -5,7 +5,16 @@
 [![React](https://img.shields.io/badge/React-17.0.2-blue.svg)](https://reactjs.org/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-4.4.1-black.svg)](https://socket.io/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose%206-brightgreen.svg)](https://www.mongodb.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black.svg)](https://client-one-topaz-24.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
+## 🌐 Live Deployments & Links
+
+- **Live Web Client (Production)**: [https://client-one-topaz-24.vercel.app](https://client-one-topaz-24.vercel.app)
+- **GitHub Code Repository**: [https://github.com/Om07092208/Experiment10](https://github.com/Om07092208/Experiment10)
+- **Local Dev Server**: `http://localhost:3000` (Client) & `http://localhost:5000` (Backend API & WebSockets)
 
 ---
 
@@ -235,3 +244,4 @@ The application underwent rigorous verification before submission:
 ## 10. Third-Party Attribution & Licensing
 - **License**: Released under the [MIT License](LICENSE).
 - **Author**: Om Tiwari &bull; College Web Development Lab (Experiment 10).
+
