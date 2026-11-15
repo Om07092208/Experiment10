@@ -233,7 +233,5 @@ The application underwent rigorous verification before submission:
 ---
 
 ## 10. Third-Party Attribution & Licensing
-
-- **Original Foundation**: Adapted and customized from [HimanshuGupta13/Fullstack-2](https://github.com/HimanshuGupta13/Fullstack-2) based on the chat application tutorial by [Kishan Sheth](https://github.com/koolkishan).
 - **License**: Released under the [MIT License](LICENSE).
 - **Author**: Om Tiwari &bull; College Web Development Lab (Experiment 10).
